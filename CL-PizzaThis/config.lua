@@ -74,13 +74,13 @@ Config.Vehicles = {
 Config.DutyObjects = {
     [1] = {
         ['model'] = "p_amb_clipboard_01", -- Model To Spawn
-        ['coords'] = vector3(812.42199, -755.81111, 27.274909),
-        ['heading'] = 180.11533,
+        ['coords'] = vector3(-1186.21, -1397.57, 4.47),
+        ['heading'] = 218.89,
     }, 
     [2] = {
         ['model'] = "prop_cd_paper_pile1", -- Model To Spawn
-        ['coords'] = vector3(812.12199, -755.81111, 27.164909),
-        ['heading'] = 180.11533,
+        ['coords'] = vector3(-1186.21, -1397.57, 4.47),
+        ['heading'] = 218.89,
     }, 
 }
 
@@ -88,205 +88,205 @@ Config.Locations = {
     General = {
         Blips = {
             [1] = {
-                Title = "Pizzeria", 
+                Title = "Cafe Corretto", 
                 BlipColour = 1, 
                 BlipId = 267,
-                Coords = vector3(804.35949, -750.9271, 26.78083)
+                Coords = vector3(-1186.35, -1404.45, 4.47),
             },
         },
     },
     
     Garage = {
-        Marker = vector3(809.99035, -732.4, 27.5977),
+        Marker = vector3(-1175.78, -1374.97, 4.96),
     },
     
     Shop = {
-        Coords = vector3(812.14477, -755.5136, 26.463903),
-        Heading = 180.11533,
+        Coords = vector3(-1198.01, -1402.32, 4.47),
+        Heading = 213.22,
         minZ = 25.263903,
         maxZ = 26.63333,
     },
 
     Stash = {
-        Coords = vector3(811.46392, -751.2053, 26.463903),
-        Heading = 90.118133,
+        Coords = vector3(-1190.5, -1387.99, 4.61),
+        Heading = 41.51,
         minZ = 25.263903,
         maxZ = 26.63333,
     },
 
     Bossmenu = {
-        Coords = vector3(797.14, -749.01, 30.91),
-        Heading = 182.04,
+        Coords = vector3(-1180.41, -1408.58, 10.52),
+        Heading = 92.27,
         minZ = 31.2,
         maxZ = 30.2,
     },
 
     Glasses = {
-        Coords = vector3(813.85162, -751.1357, 26.881879),
-        Heading = 269.55291,
+        Coords = vector3(-1196.9, -1404.75, 4.47),
+        Heading = 122.13,
         minZ = 25.881879,
         maxZ = 27.881879,
     },
 
     DrinksMachine = {
-        Coords = vector3(814.07141, -749.3648, 26.881879),
-        Heading = 269.55291,
+        Coords = vector3(-1190.46, -1392.24, 4.47),
+        Heading = 306.07,
         minZ = 26.781879,
         maxZ = 27.981879,
     },
 
     GrabDrinks = {
-        Coords = vector3(814.07141, -749.3648, 26.881879),
-        Heading = 269.55291,
+        Coords = vector3(-1196.76, -1404.28, 4.47),
+        Heading = 33.07,
         minZ = 25.781879,
         maxZ = 26.881879,
     },
 
     BossStash = {
-        Coords = vector3(796.51977, -748.8645, 31.013879),
-        Heading = 1.4484326,
+        Coords = vector3(-1180.12, -1411.04, 10.52),
+        Heading = 215.35,
         minZ = 29.913879,
         maxZ = 31.613879,
     },
 
     GrabBossDrinks = {
-        Coords = vector3(801.39257, -748.9908, 30.792514),
-        Heading = 343.81393,
+        Coords = vector3(-1195.13, -1397.15, 10.52),
+        Heading = 213.54,
         minZ = 30.592514,
         maxZ = 30.992514,
     },
 
     GrabWater = {
-        Coords = vector3(799.15822, -758.6823, 30.792514),
-        Heading = 0.0698692,
+        Coords = vector3(-1199.13, -1402.29, 4.47),
+        Heading = 31.03,
         minZ = 29.792514,
         maxZ = 31.792514,
     },
 
     GrabCoffee = {
-        Coords = vector3(800.29453, -758.665, 30.792514),
-        Heading = 0.0698692,
+        Coords = vector3(-1199.83, -1400.02, 4.47),
+        Heading = 124.99,
         minZ = 29.792514,
         maxZ = 31.792514,
     },
 
     Fruits = {
-        Coords = vector3(802.79199, -761.087, 31.232946),
-        Heading = 266.65414,
+        Coords = vector3(-1189.94, -1393.1, 4.47),
+        Heading = 292.79,
         minZ = 30.232946,
         maxZ = 32.232946,
     },
 
     Fridge = {
-        Coords = vector3(799.77284, -758.8344, 30.792514),
-        Heading = 0.0698692,
+        Coords = vector3(-1196.41, -1401.13, 4.47),
+        Heading = 215.98,
         minZ = 29.792514,
         maxZ = 32.092514,
     },
 
     Duty = {
-        Coords = vector3(812.27212, -755.9404, 27.12779),
-        Heading = 180.11533,
+        Coords = vector3(-1186.49, -1398.14, 4.47),
+        Heading = 220.02,
         minZ = 26.99999,
         maxZ = 27.62779,
     },
 
     Dough = {
-        Coords = vector3(811.51123, -755.6045, 26.630836),
-        Heading = 180.11533,
+        Coords = vector3(-1197.84, -1394.93, 4.47),
+        Heading = 220.2,
         minZ = 26.630836,
         maxZ = 26.930836,
     },
 
     PersonalStash = {
-        Coords = vector3(811.37243, -764.3569, 31.265888),
-        Heading = 272.32495,
+        Coords = vector3(-1188.55, -1386.64, 4.67),
+        Heading = 38.79,
         minZ = 30.265886,
         maxZ = 32.265886,
     },
 
     DoughMachine = {
-        Coords = vector3(806.12829, -757.4082, 27.458053),
-        Heading = 46.859565,
+        Coords = vector3(-1196.88, -1394.23, 4.47),
+        Heading = 218.23,
         minZ = 26.033151,
         maxZ = 27.633151,
     },
 
     DoughPrepare = {
-        Coords = vector3(807.66705, -756.9855, 27.458053),
-        Heading = 359.9,
+        Coords = vector3(-1194.49, -1392.51, 4.47),
+        Heading = 215.12,
         minZ = 26.033151,
         maxZ = 27.033151,
     },
 
     CoffeeCups = {
-        Coords = vector3(811.41735, -764.5887, 28.06981),
-        Heading = 271.41192,
+        Coords = vector3(-1198.19, -1399.25, 4.47),
+        Heading = 218.73,
         minZ = 27.56981,
         maxZ = 28.17981,
     },
 
     FoodFridge = {
-        Coords = vector3(805.59539, -761.7076, 26.780834),
-        Heading = 90.636985,
+        Coords = vector3(-1197.17, -1401.74, 4.47),
+        Heading = 216.37,
         minZ = 25.780834,
         maxZ = 27.780834,
     },
 
     CoffeeMachine = {
-        Coords = vector3(811.41735, -764.3987, 26.56981),
-        Heading = 271.41192,
+        Coords = vector3(-1200.71, -1395.66, 4.47),
+        Heading = 40.13,
         minZ = 26.56981,
         maxZ = 27.17981,
     },
 
     DrinksMaker = {
-        Coords = vector3(811.41735, -765.200, 26.56981),
-        Heading = 271.41192,
+        Coords = vector3(-1193.78, -1403.55, 4.47),
+        Heading = 216,
         minZ = 26.56981,
         maxZ = 27.17981,
     },
 
     MakePizza = {
-        Coords = vector3(811.41123, -754.5045, 26.630836),
-        Heading = 180.11533,
+        Coords = vector3(-1202.0, -1396.53, 4.47),
+        Heading = 30.38,
         minZ = 26.630836,
         maxZ = 26.930836,
     },
 
     MakePasta = {
-        Coords = vector3(808.33131, -760.2289, 26.703075),
-        Heading = 180.30313,
+        Coords = vector3(-1197.27, -1393.27, 4.47),
+        Heading 34.12,
         minZ = 25.703075,
         maxZ = 27.703075,
     },
 
     PizzaOven = {
-        Coords = vector3(813.95566, -752.9314, 27.080839),
-        Heading = 270.20068,
+        Coords = vector3(-1194.68, -1391.5, 4.47),
+        Heading = 8.31,
         minZ = 26.780839,
         maxZ = 27.780839,
     },
 
     PizzaAddons = {
-        Coords = vector3(812.31123, -755.6045, 26.630836),
-        Heading = 180.11533,
+        Coords = vector3(-1199.29, -1395.97, 4.47),
+        Heading = 223.93,
         minZ = 26.630836,
         maxZ = 26.930836,
     },
 
     WashHands = {
         [1] = {
-            ['coords'] = vector3(813.39843, -755.5438, 26.630836),
-            ['heading'] = 180.11533,
+            ['coords'] = vector3(-1201.58, -1397.51, 4.47),
+            ['heading'] = 124.58,
             ['minZ'] = 25.630836,
             ['maxZ'] = 27.630836,
             ['poly1'] = 0.5,
             ['poly2'] = 0.5,
         },
         [2] = {
-            ['coords'] = vector3(801.58837, -758.7001, 31.23454),
-            ['heading'] = 0.0698692,
+            ['coords'] = vector3(-1200.66, -1398.87, 4.47),
+            ['heading'] = 122.98,
             ['minZ'] = 30.23454,
             ['maxZ'] = 32.23454,
             ['poly1'] = 0.5,
@@ -328,8 +328,8 @@ Config.Locations = {
 
     Lockers = {
         [1] = {
-            ['coords'] = vector3(808.77343, -758.2884, 31.265886),
-            ['heading'] = 358.58792,
+            ['coords'] = vector3(-1187.61, -1385.99, 4.7),
+            ['heading'] = 31.17,
             ['minZ'] = 30.265886,
             ['maxZ'] = 32.265886,
             ['poly1'] = 0.6,
@@ -355,16 +355,16 @@ Config.Locations = {
 
     WineRacks = {
         [1] = {
-            ['coords'] = vector3(809.37055, -761.8726, 23.163036),
-            ['heading'] = 180.30313,
+            ['coords'] = vector3(-1182.05, -1403.97, 10.52),
+            ['heading'] = 311.56,
             ['minZ'] = 21.163036,
             ['maxZ'] = 22.663036,
             ['poly1'] = 0.6,
             ['poly2'] = 1.9,
         },
         [2] = {
-            ['coords'] = vector3(807.26055, -761.8726, 23.163036),
-            ['heading'] = 180.30313,
+            ['coords'] = vector3(-1183.25, -1402.24, 10.52),
+            ['heading'] = 302.98,
             ['minZ'] = 21.163036,
             ['maxZ'] = 22.663036,
             ['poly1'] = 0.6,
@@ -374,16 +374,16 @@ Config.Locations = {
 
     Trays = {
         [1] = {
-            ['coords'] = vector3(807.0600, -751.5258, 26.834445),
-            ['heading'] = 90.03369,
+            ['coords'] = vector3(-1196.66, -1395.39, 10.52),
+            ['heading'] = 217.55,
             ['minZ'] = 26.334445,
             ['maxZ'] = 26.634445,
             ['poly1'] = 1.0,
             ['poly2'] = 1.0,
         },
         [2] = {
-            ['coords'] = vector3(803.0600, -751.5258, 26.834445),
-            ['heading'] = 90.03369,
+            ['coords'] = vector3(-1195.57, -1404.68, 4.47),
+            ['heading'] = 211.83,
             ['minZ'] = 26.334445,
             ['maxZ'] = 26.634445,
             ['poly1'] = 1.0,
